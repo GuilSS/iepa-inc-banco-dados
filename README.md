@@ -31,7 +31,7 @@ Este projeto demonstra:
 
 ## 🚀 Como Utilizar
 
-1. Copie o conteúdo do arquivo [IEPA Inc_V8.sql](./IEPA%20Inc_V8.sql)
+1. Copie o conteúdo do arquivo [IEPA Inc_V8.sql](./IEPA%20Inc.sql)
 2. Execute no seu SGBD (PostgreSQL recomendado)
 3. Explore os dados com consultas `SELECT` para entender os relacionamentos
 
