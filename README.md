@@ -14,15 +14,6 @@ Ele contém tabelas, relacionamentos e dados de exemplo para simular um ambiente
 - Controle de **produtos** e **negociações**
 - Tabelas de **atrelamento** para relacionar funcionários e setores, e produtos com produtores/empresas
 
-## 🗄️ Estrutura do Banco
-
-Diagrama ER do projeto:
-
-![Diagrama ER](./IEPA Inc_diagrama ER.png)
-
-> Arquivo DBML: [diagrama.dbml](./diagrama.dbml)  
-> Script SQL completo: [IEPA Inc_V8.sql](./IEPA%20Inc_V8.sql)
-
 ## 🔧 Tecnologias Utilizadas
 
 - **PostgreSQL** (compatível com outros SGBDs relacionais)
@@ -46,4 +37,4 @@ Este projeto demonstra:
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido por **Guilherme Souza** como parte de estudos para administração de banco de dados e modelagem relacional.
+Projeto desenvolvido por **Guilherme Sadlovski** como parte de estudos para administração de banco de dados e modelagem relacional.
