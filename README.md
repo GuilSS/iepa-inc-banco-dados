@@ -18,7 +18,7 @@ Ele contém tabelas, relacionamentos e dados de exemplo para simular um ambiente
 
 Diagrama ER do projeto:
 
-![Diagrama ER](./diagrama.png)
+![Diagrama ER](./IEPA Inc_diagrama ER.png)
 
 > Arquivo DBML: [diagrama.dbml](./diagrama.dbml)  
 > Script SQL completo: [IEPA Inc_V8.sql](./IEPA%20Inc_V8.sql)
